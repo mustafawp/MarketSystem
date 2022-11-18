@@ -1,0 +1,6 @@
+<meta>
+    <info author="BurakMrx" name="MarketPanel" description="" type="script" version="1" />
+    <script src="client.lua" type="client" cache="false"/>
+    <script src="server.lua" type="server" cache="false"/>
+	<file src="Font13.ttf" />
+</meta>
